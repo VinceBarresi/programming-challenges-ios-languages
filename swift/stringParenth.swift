@@ -1,3 +1,4 @@
+// Check if the parentheses of a string are valid
 import UIKit
 
 func validParenthString(stringParam: String) -> Bool {

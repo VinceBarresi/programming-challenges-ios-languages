@@ -1,3 +1,4 @@
+// Return a list of values that intersect between two strings
 import UIKit
 
 func stringIntersection(str1: String, str2: String) -> Array<String> {

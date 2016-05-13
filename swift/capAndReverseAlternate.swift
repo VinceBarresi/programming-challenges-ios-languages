@@ -1,3 +1,4 @@
+// Capitalize and reverse alternate words in a string
 import UIKit
 
 func capAndReverseAlternate(str: String) -> String {
